@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Lato', Arial, sans-serif;
   background-color: #ffffff;
   color: #333;
   line-height: 1.6;
@@ -26,6 +26,7 @@ body {
   margin: 20px 0 10px;
   color: #16213e;
   font-size: 3.5em; /* Increased font size using em */
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 .hero p {
@@ -42,6 +43,7 @@ body {
   cursor: pointer;
   padding: 1em 2em; /* Increased button size using em */
   font-size: 1.1em; /* Increased font size using em */
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 .hero button:hover {
@@ -70,6 +72,7 @@ body {
   margin-bottom: 20px;
   color: #0f3460;
   font-size: 32px; /* Increased font size */
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 .how-it-works ol {
@@ -88,6 +91,7 @@ body {
 
 strong {
   color: #533483;
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 /* Features Section */
@@ -104,6 +108,7 @@ strong {
   margin-bottom: 20px;
   color: #1a1a2e;
   font-size: 32px; /* Increased font size */
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 .features ul {
@@ -122,6 +127,7 @@ strong {
 .features li strong {
   display: block;
   margin-bottom: 5px;
+  font-family: 'Rubik', Arial, sans-serif;
 }
 
 footer {
@@ -130,4 +136,5 @@ footer {
   text-align: center;
   padding: 20px 0;
   font-size: 0.9em;
+  font-family: 'Lato', Arial, sans-serif;
 }
